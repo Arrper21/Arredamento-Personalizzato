@@ -1,1 +1,209 @@
 # Arredamento-Personalizzato
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta name="google-site-verification" content="zUDJHtlxVQItw9LezIcJAMIfgJr-hL-3gCAXWF1bh7U" />  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-87928043-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-87928043-2');
+</script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js?cbid6264260f-eecf-4d02-a360-149b5da489a2"type="text/javascript"async></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Arredamento Personalizzato | Arredamento dei tuoi sogni!</title>
+  <meta name="description" content="Arredamento dei tuoi sogni. Arredamento personalizzato in base al tuo stile. Disegni fatti a mano, Rendering "/>
+
+<!--FB Open graph-->
+<meta property="og:"  content="http://arredamentopersonalizzato.net" /> 
+<meta property="og:" content="Arredamento Personalizzato | Arredamento dei tuoi sogni!"/> 
+<meta property="og:"content="https://arredamentopersonalizzato.net/arredamentopersonalizzato.png" /> 
+<meta property="og:" content="Arredamento dei tuoi sogni. Arredamento personalizzato in base al tuo stile. Disegni fatti a mano, Rendering"/>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<!--Google Font-->
+  <link href="https://fonts.googleapis.com/css?family=Handlee&display=swap" rel="stylesheet">
+
+<!--Font Awesome-->
+<script src="https://kit.fontawesome.com/951cfd1e46.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+
+<!--Fixed Navbar-->
+  <div class="navbar-fixed">
+   <nav>
+   <div class="nav-wrapper white">
+   <a href="#" class="brand-logo">Arredamento Personalizzato</a> <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+   <ul class="right hide-on-med-and-down">
+   <li><a href="#servizio">Servizio</a></li>
+   <li><a href="#richiedi un progetto">Richiedi un progetto</a></li>
+   <li><a href="#stili di arredamento">Stili di arredamento</a></li>
+   </ul>
+   <ul class="sidenav" id="mobile-demo">
+   <li><a href="#servizio">Servizio</a></li>
+   <li><a href="#richiedi un progetto">Richiedi un progetto</a></li>
+   <li><a href="#stili di arredamento">Stili di arredamento</a></li>
+   </ul>
+   </div>
+   </nav>
+  </div>
+        
+<!--Intro-->
+  <div id="index-banner" class="parallax-container">
+    <div class="section-intro no-pad-bot">
+      <div class="container">
+        <h1 class="header center white-text text-white">L'Arredamento dei tuoi sogni!</h1>
+        <div class="row center">
+        <h5 class="header col s12 light">Richiedi in pochi click un progetto per il tuo arredamento</h5>
+       	</div>
+         <div class="row center">
+          <a href="#servizio" id="download-button"
+          class="off-set l3 btn-large waves-effect waves-light red darken-4">Scopri come funziona</a>
+           </div>
+          </div>
+         </div>
+    	<div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
+  	  </div>
+
+<!--Servizio-->
+	  <div id="servizio" class="container">
+	    <div class="section">
+	    <div class="col-servizio">
+
+	   	<!--   Icon Section   -->
+	     <div class="row">
+	      <div class="col s12 m4">
+	       <div class="icon-block">
+	       <br>
+	       <h2 class="center red-text text-darken-4"><i class="material-icons">kitchen</i></h2>
+	       <h5 class="center red-text text-darken-4">Progettiamo insieme!</h5>
+	       	<br>
+	        <h5 class="center light">Raccontami come vorresti il tuo arredamento, la tua cucina, un mobile particolare,possiamo progettarlo su misura per te.
+	        Disegnamo e progettiamo con disegni fatti a mano. </h5>
+	        </div>
+	        </div>
+
+	    <div class="col s12 m4">
+	    <div class="icon-block">
+	    <br>	
+	    <h2 class="center red-text text-darken-4"><i class="material-icons">palette</i></h2>
+	    <h5 class="center red-text text-darken-4">Scelta dei Colori!</h5>
+	    	<br>
+	        <h5 class="center light">Ricerche cromatiche, ricerche di materiali particolari, interpretazione dei vari stili di arredamento.</h5>
+	        </div>
+	        </div>
+
+	        <div class="col s12 m4">
+	        <div class="icon-block">
+	        <br>	
+	        <h2 class="center red-text text-darken-4"><i class="material-icons">star</i></h2>
+	        <h5 class="center red-text text-darken-4">Rendering!</h5>
+	        <br>
+	        <h5 class="center light">Realizzazione di rendering e rappresentazione in 3D</h5>
+	        </div>
+	       </div>
+	      </div>
+	     </div>
+    </div>
+  </div>
+
+<!--Richiedi un progetto-->
+  <div id="richiedi un progetto"class="parallax-container valign-wrapper">
+    <div class="section-richiediunprogetto center no-pad-bot">
+      <div class="container">
+       <div class="row center">
+       	<i class="red-text text-darken-4 material-icons richiediunprogetto-icon">star</i>
+        <h3 class="col s12 light">Sei in cerca di  una soluzione per il tuo arredamento?</h3>
+         <h5 class="header col s12 light">Registrati per richiedere un progetto o informazioni<h5/>
+         <div class="row">
+         <div class="input-field col s12 l6 offset-l3">
+         	
+<!---Begin Mailchimp Signup Form -->
+	<div id="mc_embed_signup">
+			<form action="https://gmail.us4.list-manage.com/subscribe/post?u=e6ec2072dbd59303876b55a10&amp;id=bf399caa01" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    		<div id="mc_embed_signup_scroll">
+	  		<input type="email" value="" name="EMAIL" class="email validate white center black-text" id="mce-EMAIL" placeholder="Inserisci qui la tua e-mail!" required>
+	  		<button class="btn-richiediunprogetto btn-large waves-effect waves-light red darken-4"type="submit"name="action">Voglio richiedere informazioni!</button>
+      		</div>
+		  </form>
+		 </div>
+<!--End mc_embed_signup-->
+
+       </div>
+      </div>	
+     </div>
+    </div>
+   </div>
+  <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+ </div>
+
+<!--Stili di arredamento-->
+  <div id="stili di arredamento" class="container">
+    <div class="section-stilidiarredamento">
+
+      <div class="row">
+        <div class="col s12 center">
+          <br>		
+          <i class="red-text text-darken-4 material-icons stilidiarredamento-icon">star</i>
+          <h3>Vuoi scoprire i vari stili di arredamento?</h3>
+          <h5 class="header col s12 light stilidiarredamento-subtitle">Sei più in linea con il classico,il moderno,oppure le nuove tendenze? 
+          <br>	
+          Lascia la tua email e ti invierò gratuitamente l'ebook!<h5/>
+<!---Begin Mail chimp signup form--->          
+	    	<div id="mc_embed_signup">
+        <form action="https://gmail.us4.list-manage.com/subscribe/post?u=e6ec2072dbd59303876b55a10&amp;id=bf399caa01" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+        <input type="email" value="" name="EMAIL" class="col s12 l6 offset-l3 email validate white center black-text" id="mce-EMAIL" placeholder="Inserisci qui la tua e-mail!" required>
+        <button class="col s12 l6 offset-l3 btn-large waves-effect waves-light red darken-4"type="submit"name="action">Richiedi gratuitamente!</button>
+  	     </div>
+		    </form>
+		    </div>
+<!--End mc_embed_signup-->     
+
+       </div>
+      </div>
+    </div>
+  </div>
+
+
+ <!--Footer-->
+
+  <footer class="page-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col l12 s12 center">
+          <h5 class="white-text">Contattaci</h5>
+          <a href="mailto:arredamentopersonalizzato21@gmail.com" class="social-icon"><i class="fas fa-envelope"></i><a/>
+          <a href="https://www.facebook.com/Arredamento-Personalizzato-268991113483250/?modal=composer&notif_id=1576075045702027&notif_t=aymt_upsell_tip" target="_blanck" class="social-icon"><i class="fab fa-facebook-square"></i></a>	
+        </div>
+      </div>
+    </div>
+    <div class="footer-copywright">
+      <div class="container">
+      2020 &copy <a class="brown-text text-lighten-3" href="http://arredamentopersonalizzato.net" target="_blanck">Arredamento Personalizzato</a>
+      </div>
+    </div>
+  
+
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/6264260f-eecf-4d02-a360-149b5da489a2/cd.js?" type="text/javascript" async></script>"
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Farredamentopersonalizzato.net&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:#2a2d34;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" text = white></iframe>
+
+   </body>
+</html>
+
+
+
