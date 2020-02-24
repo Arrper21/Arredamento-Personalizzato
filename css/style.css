@@ -1,0 +1,151 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+body {
+  font-family: 'Handlee', cursive;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #d90429;
+
+}
+
+nav .brand-logo {
+  font-family: 'Handlee', cursive;
+  left: 5%;
+}
+
+.nav-wrapper {
+  padding:0 50px;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color: #d90429;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+
+.section-intro {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  margin-top: 5%;
+}
+
+.header-subtitle {
+  margin-top: 20%;
+  font-size: 1.3em;
+}
+.a.intro{
+  width: 100%;
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+
+.col-servizio {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}  
+
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+
+nav .brand-logo {
+  font-size: 1.7em;
+   left: 25%;
+}
+
+.nav-wrapper {
+  padding:0 300px;
+}
+.btn-richiediunprogetto{
+  font-size: 0.5em;  
+}
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+#servizio h5 {
+  font-size: 1.3em;
+  line-height: 1.6em;
+}
+.section-richiediunprogetto {
+ height: 100%;
+  width: 100%;
+}
+
+.richiediunprogetto-icon{
+  font-size: 5em;
+  margin-top: 40px;
+}
+
+
+.btn-richiediunprogetto {
+  width: 100%
+}
+
+button {
+  font-family: 'Handlee', cursive;
+}
+
+.stilidiarredamento-icon{
+  font-size: 4.5em;
+}
+
+.stilidiarredamento-subtitle {
+  font-size: 1.3em;
+  margin-top: 5%;
+  line-height: 2em;
+}
+
+.btn-stilidiarredamento {
+  width: 100%
+}
+
+
+footer.page-footer {
+  margin: 0;
+  background-color: #2a2d34;
+}
+
+.social-icon {
+  font-size: 2.3em;
+  color: white;
+  padding: 0 20px;
+}
+.social-icon:hover {
+  color: #d90429;
+}
+
