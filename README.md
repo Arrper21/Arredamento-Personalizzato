@@ -12,7 +12,7 @@
 
   gtag('config', 'UA-87928043-2');
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js?cbid6264260f-eecf-4d02-a360-149b5da489a2"type="text/javascript"async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="6264260f-eecf-4d02-a360-149b5da489a2" data-blockingmode="auto" type="text/javascript"></script>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Arredamento Personalizzato | Arredamento dei tuoi sogni!</title>
