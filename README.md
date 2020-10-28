@@ -2,6 +2,16 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
+<!-- Cookiebotconsensogoogle -->	
+< script data-cookieconsent = "ignore" > 
+finestra . dataLayer  =  finestra . dataLayer  || [];
+funzione gtag () { 
+dataLayer . push ( argomenti );}
+gtag ( "consent" ,  "default" , {
+ad_storage: "negato" , 
+analytics_storage: "negato" , 
+wait_for_update: 500 });
+gtag ( "set" ,  "ads_data_redaction" ,  true );</script >
 <meta name="google-site-verification" content="zUDJHtlxVQItw9LezIcJAMIfgJr-hL-3gCAXWF1bh7U" />  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87928043-2"></script>
